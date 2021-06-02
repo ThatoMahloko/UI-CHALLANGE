@@ -1,0 +1,174 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(sansation_light.woff);
+ }
+
+ .content{
+    padding-top: 0;
+     text-align: center;
+ }
+
+.headerimg{
+    width: 100%;
+}
+.topLogo{
+   position: absolute;
+    left:50%;
+   
+    top:5%
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.main{
+    display:flex;
+    justify-content: center;
+}
+
+
+.quickSearch{
+ 
+    margin-left: 6%;
+}
+button.btn1{
+    transition: 0.3s;
+    position:relative;
+    text-align: center;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    background-color: rgb(93,204,187);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 312px;
+    font-style: oblique;
+    
+}
+
+.btn2{
+    position:relative;
+    text-align: center;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    background-color: rgb(136,151,254);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 312px;
+    font-style: oblique;
+    box-shadow: #1cadda;   
+}
+
+.centerbtn{
+    margin: 0; position:absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%,-50%);
+    transform: translate(-50%, -50%);
+}
+.img-device{
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.Appfunctions{
+    display:flex;
+    justify-content: center;
+    
+}
+
+.blacklists{
+    margin-right: 2%; 
+}
+.plaintext{
+    margin-right: 2%; 
+}
+.sneak{   
+    margin-right: 2%; 
+}
+h2.functionheader{
+    text-align: center;
+}
+.Appfunctions.img{
+    position: fixed;    
+}
+
+footer{
+    background:#f5f6f8;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    height: 200px;
+}
+a{
+    padding: 60px 30px;
+   
+}
+table{
+    margin: auto;
+}
+.greyIcons{
+    display:flex;   
+   justify-content: center;    
+}
+
+.google{
+    margin-right: 2%
+}
+
+.Ibm{
+    margin-right: 2%
+}
+.microsoft{
+    margin-right: 2%
+}
+.hewlwettPackard{
+    margin-right: 2%
+}
+.vector{
+    margin-right: 2%
+}
+.imageheader{
+    position: absolute;
+    width: 100%;
+    margin-top: 0;
+}
+
+.logo{
+    margin-top: 50px;
+    position: absolute;
+    padding-left: 50px;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 312px;
+    font-style: oblique;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: normal;
+}
